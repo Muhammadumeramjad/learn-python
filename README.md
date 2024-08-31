@@ -27,7 +27,22 @@ open CMD and write python3 --version
  
 step #3
 open VS code 
-new file 
-text file
+ go to new file 
+ and text file then
 save file to the folder by ect.py
 
+type in vs code :
+
+name = "umer"
+age = 20
+price = 20.3
+
+print(name)
+print(age)
+print(price) 
+    or 
+
+print("my name is :",name)
+print("my age is :",age)
+
+     and run terminal(ctrl+`)
